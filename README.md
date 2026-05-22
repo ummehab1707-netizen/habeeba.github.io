@@ -6,20 +6,20 @@
 
 ## 🚀 About Me
 
-Hi! I'm a first-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**. I'm currently building my foundation in programming and exploring data-driven problem solving while working on beginner AI/ML projects.
+Hi! I'm a first-year B.E student specializing in **Artificial Intelligence & Machine Learning**. I'm currently building my foundation in programming and exploring data-driven problem solving while working on beginner AI/ML projects.
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Artificial Intelligence & Machine Learning**
+**B.E in Artificial Intelligence & Machine Learning**
 CBIT, India
 2025 – Present
 **CGPA:** 9.78 / 10
 
 **Coursework:**
 
-* Programming in C
+* Programming in C,python
 * Data Structures in C++
 * Introduction to AI/ML
 * AutoCAD, SolidWorks
@@ -69,14 +69,6 @@ CBIT, India
 * Performs basic arithmetic operations
 * Built using conditionals and functions
 
-### 🤖 Beginner ML Projects (In Progress)
-
-* Linear Regression model
-* Basic data analysis using Python
-
-*(More projects coming soon...)* 🚀
-
----
 
 ## 🌟 Strengths
 
